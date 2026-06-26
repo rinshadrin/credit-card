@@ -132,6 +132,6 @@ The project provides insights into:
 
 🔗 GitHub: https://github.com/rinshadrin
 
-🔗 LinkedIn: https://www.linkedin.com/in/muhammed-rinshad
+🔗 LinkedIn: www.linkedin.com/in/muhammad-rinshad-80760437a
 
 ⭐ If you found this project useful, consider giving it a star!
